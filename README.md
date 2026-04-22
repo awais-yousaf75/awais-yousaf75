@@ -42,7 +42,7 @@ const awais = {
 🧠 Exploring AI, ML & intelligent systems
 🔐 Focused on clean architecture & performance
 
-“Code is not just syntax — it is structured thinking.”
+> “Code is not just syntax — it is structured thinking.”
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 📊 GitHub Analytics
