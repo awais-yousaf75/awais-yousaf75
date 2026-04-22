@@ -44,12 +44,12 @@ const awais = {
 > “Code is not just syntax — it is structured thinking.”
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-📊 GitHub Analytics
+## 📊 GitHub Analytics
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=awais-yousaf75&show_icons=true&theme=radical&hide_border=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=awais-yousaf75&theme=radical&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais-yousaf75&layout=compact&theme=radical&hide_border=true"/> </div>
 📈 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=awais-yousaf75&theme=radical&hide_border=true"/> </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🚀 Tech Stack
+## 🚀 Tech Stack
 <div align="center">
 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,dart,flutter"/>
@@ -71,7 +71,7 @@ const awais = {
 🌟 Featured Project
 <div align="center"> <a href="https://github.com/awais-yousaf75"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=awais-yousaf75&repo=ebay-price-tracker&theme=radical&hide_border=true"/> </a> </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🤝 Let's Connect
+## 🤝 Let's Connect
 📧 Email: awaisyousaf75@gmail.com
 💼 Open for collaboration
 <div align="center">
@@ -83,7 +83,7 @@ const awais = {
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-💭 Developer Mindset
+## 💭 Developer Mindset
 <div align="center">
 
 Clean Code • Scalable Systems • Continuous Learning
