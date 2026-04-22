@@ -53,7 +53,9 @@ const awais = {
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=awais-yousaf75&theme=radical&hide_border=true"/> </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## 🚀 Tech Stack
+
+### 🚀 Tech Stack
+
 <div align="center">
   
 ### 🎨 Frontend
@@ -83,11 +85,6 @@ const awais = {
 📊 Deep Learning & Neural Networks
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌟 Featured Project
-
-<div align="center"> <a href="https://github.com/awais-yousaf75"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=awais-yousaf75&repo=ebay-price-tracker&theme=radical&hide_border=true"/> </a> </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🤝 Let's Connect
 
 📧 Email: awaisyousaf75@gmail.com
@@ -111,4 +108,4 @@ Clean Code • Scalable Systems • Continuous Learning
 ✨ Building scalable intelligent systems, one commit at a time.
 
 </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/> </div> ```
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/> </div>
