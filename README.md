@@ -28,19 +28,9 @@
 
 ---
 
+
 <!-- ======================= STATS ======================= -->
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=awais-yousaf75&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<!-- ======================= TECH STACK ======================= -->
 
 ## 📊 GitHub Analytics
 
@@ -69,6 +59,8 @@
 </div>
 
 ---
+
+<!-- ======================= TECH STACK ======================= -->
 
 ## 🚀 Tech Stack
 
