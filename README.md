@@ -33,7 +33,6 @@ const awais = {
   learning: ["Deep Learning", "Neural Networks"],
   mindset: "Build scalable & clean systems"
 };
-<br/>
 ```
 ---
 
