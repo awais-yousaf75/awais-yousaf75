@@ -42,6 +42,34 @@
 
 <!-- ======================= TECH STACK ======================= -->
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=awais-yousaf75&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
+
+[![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=awais-yousaf75&show_icons=true&theme=synthwave&hide_border=true)](https://github.com/awais-yousaf75)
+
+<br/>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awais-yousaf75&layout=compact&theme=synthwave&hide_border=true)](https://github.com/awais-yousaf75)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Awais's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=awais-yousaf75&theme=synthwave&hide_border=true)](https://github.com/awais-yousaf75)
+
+</div>
+
+---
+
 ## 🚀 Tech Stack
 
 ### 🎨 Frontend Development
